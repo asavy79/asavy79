@@ -1,8 +1,9 @@
 # 👋 Hi, I'm Alex Savard!
 
 ## 🚀 About Me
-- 🌱 I’m currently a computer science student at  **CU Boulder**
-- 💼 I’m working for **Blueprint Boulder**
+- 🏔️ Computer science student at  **CU Boulder**
+- 💼 Working for **Blueprint Boulder**
+- 💻 Incoming SWE Intern @ **Medtronic**
 - 🤖 Hackathon winner
 - 📫 Reach me at **alex.savard20@icloud.com**
 
