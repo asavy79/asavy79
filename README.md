@@ -4,7 +4,7 @@
 - 🏔️ Computer science student at  **CU Boulder**
 - 💼 Current Software Engineer @ **Blueprint Boulder**
 - 💻 Incoming Software Engineering Intern @ **Medtronic**
-- 🤖 Hackathon winner @ **Hack the North**
+- 🤖 Winner @ **Hack the North**
 - 📫 Reach me at **alex.savard20@icloud.com**
 
 ## 🔥 Most Used Languages
