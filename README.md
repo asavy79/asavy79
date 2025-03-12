@@ -2,7 +2,7 @@
 
 ## 🚀 About Me
 - 🏔️ Computer science student at  **CU Boulder**
-- 💼 Working for **Blueprint Boulder**
+- 💼 Current SWE @ **Blueprint Boulder**
 - 💻 Incoming SWE Intern @ **Medtronic**
 - 🤖 Hackathon winner
 - 📫 Reach me at **alex.savard20@icloud.com**
