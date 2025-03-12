@@ -5,7 +5,7 @@
 - 💼 Current Software Engineer @ **Blueprint Boulder**
 - 💻 Incoming Software Engineering Intern @ **Medtronic**
 - 🤖 Winner @ **Hack the North**
-- 📫 Reach me at **alex.savard20@icloud.com**
+- 📫 Reach me @ **alex.savard20@icloud.com**
 
 ## 🔥 Most Used Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=asavy79&layout=compact&theme=tokyonight)
