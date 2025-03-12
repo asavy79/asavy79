@@ -23,8 +23,7 @@
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
 ## 🚀 Contribution Graph
-![GitHub Streak](https://streak-stats.demolab.com?user=YourUsername&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com?user=asavy79&theme=tokyonight)
 
 ## 📫 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/YourUsername)
-[![Twitter](https://img.shields.io/badge/Twitter-blue?logo=twitter&logoColor=white)](https://twitter.com/YourUsername)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/alex-b-savard)
