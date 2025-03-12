@@ -3,6 +3,7 @@
 ## 🚀 About Me
 - 🌱 I’m currently a computer science student at  **CU Boulder**
 - 💼 I’m working for **Blueprint Boulder**
+- 🤖 Hackathon winner
 - 📫 Reach me at **alex.savard20@icloud.com**
 
 ## 🔥 Most Used Languages
