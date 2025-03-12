@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Alex SAvard!
+# 👋 Hi, I'm Alex Savard!
 
 ## 🚀 About Me
 - 🌱 I’m currently a computer science student at  **CU Boulder**
