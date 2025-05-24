@@ -2,8 +2,7 @@
 
 ## 🚀 About Me
 - 🏔️ Computer science student at  **CU Boulder**
-- 💼 Current Software Engineer @ **Blueprint Boulder**
-- 💻 Incoming Software Engineering Intern @ **Medtronic**
+- 💻 Software Engineer Intern @ **Medtronic**
 - 🤖 Winner @ **Hack the North**
 - 📫 Reach me @ **alex.savard20@icloud.com**
 
